@@ -1,0 +1,9 @@
+{
+  "name": "H3 Audio Refinement Controls",
+  "author": "anxioproject",
+  "version": "1.1.0",
+  "description": "MiniMax H3: replaces the 'Audio Refinement Extra Phase' dropdown with an on/off checkbox, an Extra Steps slider (1-6) and a Denoising Strength slider (0-1) and an option to keep the audio references (voice refs, audio RefMods).",
+  "type": "extension",
+  "date": "2026-10-17",
+  "wan2gp_version": ""
+}
